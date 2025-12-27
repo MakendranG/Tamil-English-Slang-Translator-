@@ -28,7 +28,7 @@ A simple chat-based translator that:
 
 ## Quick Start
 
-### Option 1: Download ZIP File
+### Download ZIP File
 
 1. **Download** the `tamil-slang-translator.zip` file from this repository
 2. **Extract** the ZIP file to your desired location
@@ -46,23 +46,6 @@ A simple chat-based translator that:
    ```
 6. **Open browser** at `http://localhost:5000`
 
-### Option 2: Clone Repository
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/[your-username]/tamil-slang-translator.git
-   cd tamil-slang-translator
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the application:
-   ```bash
-   python app.py
-   ```
-4. Open browser at `http://localhost:5000`
-
 ## Project Structure
 
 ```
@@ -77,8 +60,6 @@ tamil-slang-translator/
 │   └── style.css               # Styling
 ├── requirements.txt            # Dependencies
 ├── README.md                   # This file
-├── SETUP_GUIDE.md             # Detailed setup instructions
-└── BLOG_OUTLINE.md            # Blog post structure
 ```
 
 ## Example Translations
