@@ -81,7 +81,7 @@ This project was built with Kiro AI assistance, which:
 
 ## Submission
 
-- **GitHub Repository**: [Your repo link]
+- **GitHub Repository**: https://github.com/MakendranG/Tamil-English-Slang-Translator-
 - **AWS Builder Center Blog**: [Your blog link]
 - **Theme**: The Local Guide
 - **Challenge**: AI for Bharat
