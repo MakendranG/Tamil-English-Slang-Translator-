@@ -1,5 +1,8 @@
 # Tamil-English Slang Translator 🗣️
 
+<img width="999" height="929" alt="tamil1" src="https://github.com/user-attachments/assets/4cd8187b-ccd6-469f-aecc-cba52ffb7112" />
+
+
 A local guide tool that translates Tamil slang (urban + village) into clear English explanations, powered by Kiro AI.
 
 ## Problem Statement
